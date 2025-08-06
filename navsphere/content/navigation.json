@@ -41,6 +41,15 @@
       "subCategories": [],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1754456081710",
+      "title": "追剧",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
