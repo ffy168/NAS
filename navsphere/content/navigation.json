@@ -49,7 +49,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "15c17ad0-9c09-4695-a29d-bfdf1d3e02d1",
+          "title": "测试",
+          "icon": "Palette",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
