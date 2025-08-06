@@ -66,23 +66,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "c04c41fd-4f65-4d64-a213-c972b3b20303",
-          "title": "2",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1754463695622",
-              "title": "网飞猫_最新Netflix新剧_韩国电影免费在线观看",
-              "href": "https://www.ncat21.com/",
-              "description": "网飞猫-ncat1.app-看电影，可以改变人生！奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！",
-              "icon": "/assets/img_1754463754879.png",
-              "enabled": true
-            }
-          ]
         }
       ]
     }
