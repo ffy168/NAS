@@ -56,7 +56,16 @@
           "icon": "Palette",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754456238977_3ym7nluwj",
+              "title": "追影猫-让追剧随心所欲，随时搜随心看！",
+              "href": "https://zhuiyingmao5.com/?btwaf=66046044",
+              "description": "影视聚合搜索，在线随心看！追影猫最新地址发布页（zhuiyingmao.vip），汇集全球最全电影、电视剧、综艺、动漫、纪录片等影视资源站点！",
+              "icon": "/assets/favicon_1754456225249.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
