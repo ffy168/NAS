@@ -66,6 +66,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "c04c41fd-4f65-4d64-a213-c972b3b20303",
+          "title": "2",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
