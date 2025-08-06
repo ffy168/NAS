@@ -1,6 +1,33 @@
 {
   "navigationItems": [
     {
+      "id": "1754456081710",
+      "title": "追剧",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "15c17ad0-9c09-4695-a29d-bfdf1d3e02d1",
+          "title": "测试",
+          "icon": "Palette",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1754456238977_3ym7nluwj",
+              "title": "追影猫-让追剧随心所欲，随时搜随心看！",
+              "href": "https://zhuiyingmao5.com/?btwaf=66046044",
+              "description": "影视聚合搜索，在线随心看！追影猫最新地址发布页（zhuiyingmao.vip），汇集全球最全电影、电视剧、综艺、动漫、纪录片等影视资源站点！",
+              "icon": "/assets/favicon_1754456225249.png",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -41,33 +68,6 @@
       "subCategories": [],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1754456081710",
-      "title": "追剧",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "15c17ad0-9c09-4695-a29d-bfdf1d3e02d1",
-          "title": "测试",
-          "icon": "Palette",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1754456238977_3ym7nluwj",
-              "title": "追影猫-让追剧随心所欲，随时搜随心看！",
-              "href": "https://zhuiyingmao5.com/?btwaf=66046044",
-              "description": "影视聚合搜索，在线随心看！追影猫最新地址发布页（zhuiyingmao.vip），汇集全球最全电影、电视剧、综艺、动漫、纪录片等影视资源站点！",
-              "icon": "/assets/favicon_1754456225249.png",
-              "enabled": true
-            }
-          ]
-        }
-      ]
     }
   ]
 }
